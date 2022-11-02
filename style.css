@@ -1,7 +1,7 @@
 h1{
     font-family:sans-serif;
     text-align:center;
-    size:30px;
+    font-size:50px;
     background-color:darkturquoise;
     padding:50px;
 }
@@ -17,4 +17,9 @@ p{
 .logo{
     height:10%;
     width:10%;
+}
+
+#loginintro{
+    margin-right:1000px;
+    font-size:25px;
 }
